@@ -23,3 +23,5 @@ Me chamo Daniel tenho 21 anos e estou aprendendo programação,estou em busca de
   <a href="https://www.linkedin.com/in/daniel-rocha-0715021b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+<img alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniel04sabino&theme=react"/>
+<img alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniel04sabino&theme=react"/>
