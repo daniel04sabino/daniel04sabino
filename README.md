@@ -28,5 +28,16 @@ Sou apaixonado por programação e estou em constante evolução, estudando e pr
   <a href="https://www.linkedin.com/in/DanielSabino7" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+<div>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=daniel04sabino.daniel04sabino&"  />
+</div>
 <img alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniel04sabino&theme=react"/>
 <img alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniel04sabino&theme=react"/>
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniel04sabino/daniel04sabino/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daniel04sabino/daniel04sabino/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/daniel04sabino/daniel04sabino/output/pacman-contribution-graph.svg">
+</picture>
